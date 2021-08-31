@@ -17,6 +17,10 @@ section {
   --bggradient: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)), url('header.gif');
 }
 
+.fa-book-reader:hover{
+color: yellow
+}
+
 header a {
   font-family: var(--Sniglet-font);
   font-size: 0.9em;
